@@ -1,6 +1,8 @@
 # Python-game
 Matching pairs memory game in python using the pygame library
 
+Game rules - In this game the user will be presented with a list of tiles containing pair of images which will be hidden behind the tile. Whenever the user clicks a tile its underlying image will be shown. The user will be able to flip or view only two consecutive tiles at a time. The task of the user is to match all the tiles as soon as possible.
+
 app_logic.py
    This python program contains the logic for creating a window of 512 X 512 size, displaying the tiles, mapping two consecutive tiles if they are same and flipping of tiles.
    
