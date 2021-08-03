@@ -12,4 +12,4 @@ game_configuration.py
 animal_class.py
    This python program contains the Animal class which shuffles the tiles each time a game is started and contains attributes like row and column to uniquely identify each tile in    the game. It also contains the status flag which denotes whether a tile is matched or not.
    
-video demo link: https://youtu.be/doxDp7Pf4zA
+video link for demo: https://youtu.be/doxDp7Pf4zA
